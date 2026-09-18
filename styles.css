@@ -423,7 +423,7 @@ footer {
 
 
 /* SMALL PHONES, LARGE SMARTPHONES */
-@media (max-width: 55px) {
+@media (max-width: 768px) {
   .nav__links{
     display: none;
   }
